@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ikhlas5",
   resume:
-    "https://drive.google.com/file/d/1j9XyIYWLBaEVTtsdKU1M2aGTerR_kkkO/view?usp=sharing",
+    "https://drive.google.com/file/d/1YUjuCZeUlhng47fhtQN718FwLixHGsmf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/mahmudulikhlas/",
@@ -210,17 +210,17 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://i.ibb.co/VVZCKWn/download-3.png",
-    school: "Northern University",
+    img: "https://i.ibb.co/f2mW2p8/images.png",
+    school: "Bangladesh University of Business and Technology (BUBT)",
     date: "May 2024 - ",
     grade: "Running",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Northern Univercity, Dhaka.  I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at BUBT, Dhaka.  I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of  Computer Science and Engineering",
   },
   {
     id: 1,
     img: "https://i.ibb.co/V9gKzFQ/download.jpg",
-    institute: "Gopalganj Polytechinc Institute ",
+    school: "Gopalganj Polytechinc Institute ",
     date: "Aug 2019 - Aug 2023",
     grade: "CGPA 3.53 Out of 4.00",
     desc: "I completed my class diploma education at Gopalganj Polytechinc Institute , Gopalganj, where I studied  Computer Science and Technology.",
@@ -347,7 +347,7 @@ export const projects = [
     "MongoDb",
     "Node Js",
     "Express Js",],
-    category: "Quiz Crackerz",
+    category: "web app",
     github: "https://github.com/ikhlas5/quiz-crackerz",
     webapp: "https://quiz-tarrant-949f55.netlify.app",
   },
@@ -360,7 +360,7 @@ export const projects = [
     image:
       "https://i.ibb.co/YdNMhKY/Best-Five-Seletor.png",
     tags: ["React","HTML","CSS","Bootstrap", "JavaScript", ],
-    category: "",
+    category: "web app",
     github: "https://github.com/ikhlas5/World-Cup-2022",
     webapp: "https://bejewelled-alpaca-85ff2d.netlify.app",
   },
