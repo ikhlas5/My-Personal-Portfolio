@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/ikhlas5",
   resume:
     "https://drive.google.com/file/d/1YUjuCZeUlhng47fhtQN718FwLixHGsmf/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/mahmudulikhlas/",
   facebook: "https://www.facebook.com/bay.ron.5030",
