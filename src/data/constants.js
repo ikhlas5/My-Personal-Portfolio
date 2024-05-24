@@ -2,7 +2,7 @@ export const Bio = {
   name: "Mohammad Ikhlas",
   roles: [
     "Full Stack Developer",
-    "UI/UX Designer",
+    "& Web Designer",
     "Programmer",
   ],
   description:
@@ -10,8 +10,8 @@ export const Bio = {
   github: "https://github.com/ikhlas5",
   resume:
     "https://drive.google.com/file/d/1YUjuCZeUlhng47fhtQN718FwLixHGsmf/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/",
-  twitter: "https://twitter.com/",
+  linkedin: "https://www.linkedin.com",
+  twitter: "https://twitter.com",
   insta: "https://www.instagram.com/mahmudulikhlas/",
   facebook: "https://www.facebook.com/bay.ron.5030",
 };
@@ -142,7 +142,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://i.ibb.co/RhS2kFb/Untitled-design-1-1.webp",
-    role: "DevOps & Fullstack Engineering Intern",
+    role: " Fullstack Engineering Intern",
     company: "European IT Institute",
     date: "Aug 2023 - Jan 2024",
     desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
